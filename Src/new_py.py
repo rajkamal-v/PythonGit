@@ -1,2 +1,2 @@
 def fuc():
-   print('name','python')
+   print('name','git')
